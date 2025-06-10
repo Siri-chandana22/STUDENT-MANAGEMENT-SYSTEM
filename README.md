@@ -80,6 +80,10 @@ A TreeView widget for structured data display.
 
 **Delete Student:**
 
+![Image](https://github.com/user-attachments/assets/77720f30-f3af-43b5-a6fc-ddfe463fdd12)
+
+![Image](https://github.com/user-attachments/assets/f76bf365-0533-40a7-8c51-26f45f21b3a5)
+
 
 
 
