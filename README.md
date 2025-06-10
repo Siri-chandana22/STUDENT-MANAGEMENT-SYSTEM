@@ -76,6 +76,11 @@ A TreeView widget for structured data display.
 
 **Show Student Data:**
 
+![Image](https://github.com/user-attachments/assets/cb3f2c0d-dfaa-4f20-88ad-63aa1c436e6f)
+
+**Delete Student:**
+
+
 
 
 
