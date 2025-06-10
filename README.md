@@ -1,8 +1,8 @@
 # STUDENT-MANAGEMENT-SYSTEM
 
-DESCRIPTION:
+# DESCRIPTION:
 
-Library Imports and Dependencies:
+**Library Imports and Dependencies:**
 
 The project begins by importing standard Python libraries like:
 Tkinter for building the graphical user interface (GUI),
